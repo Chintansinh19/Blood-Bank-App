@@ -1,0 +1,2 @@
+com/example/bloodbank2/BuildConfig.java
+ com.example.bloodbank2.BuildConfig
